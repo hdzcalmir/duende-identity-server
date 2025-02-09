@@ -122,6 +122,12 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+# Visual Studio cache and temporary files
+.vs/
+
+# Visual Studio Code settings and workspace folders
+.vscode/
+
 # yarn v2
 .yarn/cache
 .yarn/unplugged
