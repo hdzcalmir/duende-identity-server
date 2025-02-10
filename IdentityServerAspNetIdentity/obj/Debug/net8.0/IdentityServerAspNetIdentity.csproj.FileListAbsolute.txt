@@ -159,4 +159,5 @@ C:\Users\Almir\Documents\dev\private\duende-identity-server\IdentityServerAspNet
 C:\Users\Almir\Documents\dev\private\duende-identity-server\IdentityServerAspNetIdentity\obj\Debug\net8.0\IdentityServerAspNetIdentity.pdb
 C:\Users\Almir\Documents\dev\private\duende-identity-server\IdentityServerAspNetIdentity\obj\Debug\net8.0\IdentityServerAspNetIdentity.genruntimeconfig.cache
 C:\Users\Almir\Documents\dev\private\duende-identity-server\IdentityServerAspNetIdentity\obj\Debug\net8.0\ref\IdentityServerAspNetIdentity.dll
+C:\Users\Almir\Documents\dev\private\duende-identity-server\IdentityServerAspNetIdentity\bin\Debug\net8.0\keys\is-signing-key-6C0220F8646B56D5555EBC737AC6BDBB.json
 C:\Users\Almir\Documents\dev\private\duende-identity-server\IdentityServerAspNetIdentity\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

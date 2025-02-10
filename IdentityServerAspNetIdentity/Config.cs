@@ -9,6 +9,7 @@ public static class Config
         {
             new IdentityResources.OpenId(),
             new IdentityResources.Profile(),
+            new IdentityResource("color", ["favorite_color"])
         };
 
     public static IEnumerable<ApiScope> ApiScopes =>
@@ -45,7 +46,7 @@ public static class Config
                 PostLogoutRedirectUris = { "https://localhost:5002/signout-callback-oidc" },
 
                 AllowOfflineAccess = true,
-                AllowedScopes = { "openid", "profile", "api1" }
+                AllowedScopes = { "openid", "profile", "api1", "color" }
             },
         };
 }

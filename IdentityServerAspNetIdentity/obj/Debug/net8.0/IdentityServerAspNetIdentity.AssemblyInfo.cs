@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IdentityServerAspNetIdentity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3508bb08e98c8c870ff401da5ba15da4016d418")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4d83857bf28c133792f54ebdac17dc4e7282ff8")]
 [assembly: System.Reflection.AssemblyProductAttribute("IdentityServerAspNetIdentity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IdentityServerAspNetIdentity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
