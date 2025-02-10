@@ -50,23 +50,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\almir\\.nuget\\packages\\": {},
+    "C:\\Users\\Almir\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dev\\private\\duende-identity-server\\Client\\Client.csproj",
+      "projectUniqueName": "C:\\Users\\Almir\\Documents\\dev\\private\\duende-identity-server\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "E:\\dev\\private\\duende-identity-server\\Client\\Client.csproj",
-      "packagesPath": "C:\\Users\\almir\\.nuget\\packages\\",
-      "outputPath": "E:\\dev\\private\\duende-identity-server\\Client\\obj\\",
+      "projectPath": "C:\\Users\\Almir\\Documents\\dev\\private\\duende-identity-server\\Client\\Client.csproj",
+      "packagesPath": "C:\\Users\\Almir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Almir\\Documents\\dev\\private\\duende-identity-server\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\almir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Almir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -75,7 +75,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
