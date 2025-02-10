@@ -22,6 +22,12 @@ try
     
     app.Run();
 }
+
+catch(HostAbortedException)
+{
+    Log.Information("Shut down triggered by entity framework tools");
+}
+
 catch (Exception ex)
 {
     Log.Fatal(ex, "Unhandled exception");
